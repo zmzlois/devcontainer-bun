@@ -1,4 +1,4 @@
-This is an example Typescript project used in Daytona.
+This is an example Bun project to run typescript used in Daytona dashboard template.
 
 
 ### Running the project
