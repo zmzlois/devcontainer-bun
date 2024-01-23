@@ -1,7 +1,9 @@
-{
-    "name": "Bun",
-    "description": "Use bun with your typescript project.",
-    "gitUrl": "https://github.com/zmzlois/devcontainer-bun",
-    "imageUrl": "https://raw.githubusercontent.com/zmzlois/devcontainer-bun/main/asset/bun.svg",
-    "rawReadmeUrl": "https://raw.githubusercontent.com/zmzlois/devcontainer-bun/main/README.md"
-}
+[
+    {
+        "name": "Bun",
+        "description": "Use bun with your typescript project.",
+        "gitUrl": "https://github.com/zmzlois/devcontainer-bun",
+        "imageUrl": "https://raw.githubusercontent.com/zmzlois/devcontainer-bun/main/asset/bun.svg",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/zmzlois/devcontainer-bun/main/README.md"
+    }
+]
