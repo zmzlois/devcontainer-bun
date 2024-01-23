@@ -1,0 +1,7 @@
+{
+    "name": "Typescript/Bun",
+    "description": "Use bun with your typescript project.",
+    "gitUrl": "https://github.com/zmzlois/devcontainer-bun",
+    "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/base-alpine.png",
+    "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio-templates/base-alpine/main/README.md"
+}
