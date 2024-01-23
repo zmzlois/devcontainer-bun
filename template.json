@@ -1,5 +1,5 @@
 {
-    "name": "Typescript/Bun",
+    "name": "Bun",
     "description": "Use bun with your typescript project.",
     "gitUrl": "https://github.com/zmzlois/devcontainer-bun",
     "imageUrl": "https://raw.githubusercontent.com/zmzlois/devcontainer-bun/main/asset/bun.svg",
