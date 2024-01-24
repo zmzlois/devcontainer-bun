@@ -1,4 +1,4 @@
-This is an example Bun project to run typescript used in Daytona dashboard template.
+This is a devcontainer template to run Bun.  
 
 
 ### Running the project
